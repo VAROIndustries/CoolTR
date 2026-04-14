@@ -47,5 +47,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    # icon='cooltr.ico',  # uncomment if you add an icon file
+    icon='cooltr.ico',
 )
