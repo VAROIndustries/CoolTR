@@ -10,3 +10,6 @@ cooltr_icon.png
 
 # Local Claude config
 .claude/
+
+# Scratch / temporary work — not synced
+tmp/
