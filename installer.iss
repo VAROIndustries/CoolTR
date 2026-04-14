@@ -16,6 +16,7 @@ DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 OutputDir=installer_output
 OutputBaseFilename=CoolTR_Setup
+SetupIconFile=cooltr.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern

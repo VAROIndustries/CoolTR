@@ -5,5 +5,8 @@ installer_output/
 __pycache__/
 *.pyc
 
+# Generated preview (icon source is make_icon.py)
+cooltr_icon.png
+
 # Local Claude config
 .claude/
