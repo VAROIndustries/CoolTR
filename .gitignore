@@ -1,0 +1,9 @@
+# Build output
+dist/
+build/
+installer_output/
+__pycache__/
+*.pyc
+
+# Local Claude config
+.claude/
