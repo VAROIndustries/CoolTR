@@ -1,6 +1,6 @@
 # CoolTR
 
-_Built by [VARØ Industries](https://varo.industries/apps)_
+_Built by [VARØ Industries](https://varo.industries/apps#github)_
 
 A modern, dark-themed Windows network diagnostic tool that combines live MTR-style tracerouting, continuous ping monitoring, and deep network info lookups in a single desktop GUI.
 
@@ -103,5 +103,5 @@ CoolTR/
 
 ## More from VARØ Industries
 
-Free web apps, tools, and open-source projects → [varo.industries/apps](https://varo.industries/apps)
+Free web apps, tools, and open-source projects → [varo.industries/apps](https://varo.industries/apps#github)
 
