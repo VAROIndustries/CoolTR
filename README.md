@@ -1,5 +1,7 @@
 # CoolTR
 
+_Built by [VARØ Industries](https://varo.industries/apps)_
+
 A modern, dark-themed Windows network diagnostic tool that combines live MTR-style tracerouting, continuous ping monitoring, and deep network info lookups in a single desktop GUI.
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)

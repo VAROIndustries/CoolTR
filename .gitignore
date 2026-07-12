@@ -13,3 +13,6 @@ cooltr_icon.png
 
 # Scratch / temporary work — not synced
 tmp/
+
+# Session log
+logs/session_log.md
