@@ -1,5 +1,8 @@
 # CoolTR
 
+**🌐 Tool page: [varo.industries/tools/cooltr](https://varo.industries/tools/cooltr)** — features, screenshots, install, and FAQ.
+
+
 _Built by [VARØ Industries](https://varo.industries/apps#github)_
 
 A modern, dark-themed Windows network diagnostic tool that combines live MTR-style tracerouting, continuous ping monitoring, and deep network info lookups in a single desktop GUI.
